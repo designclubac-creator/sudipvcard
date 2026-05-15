@@ -15,7 +15,7 @@ import {
 } from "lucide-react";
 import { motion, AnimatePresence } from 'motion/react';
 import profileImg from "./assets/profile.jpg";
-import bannerImg from "./assets/banner.jpg";
+import bannerImg from "./assets/Banner.jpg";
 import logoImg from "./assets/Logo.png";
 import { downloadVCard, type ProfileData } from './lib/vcards/arpanvcard';
 import { cn } from './lib/utils';
